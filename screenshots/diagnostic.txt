@@ -1,0 +1,103 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 04-11 23:14:21.506  16167-16167/kar34.washington.edu.activityspy D/HyLog
+\f1 \'a9\'73
+\f0  I : /data/font/config/sfconfig.dat, No such file or directory (2)\
+04-11 23:14:21.506  16167-16167/kar34.washington.edu.activityspy D/HyLog
+\f1 \'a9\'73
+\f0  I : /data/font/config/dfactpre.dat, No such file or directory (2)\
+04-11 23:14:21.506  16167-16167/kar34.washington.edu.activityspy D/HyLog
+\f1 \'a9\'73
+\f0  I : /data/font/config/sfconfig.dat, No such file or directory (2)\
+04-11 23:14:21.556  16167-16167/kar34.washington.edu.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted\
+04-11 23:14:21.556  16167-16167/kar34.washington.edu.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 12212: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V\
+04-11 23:14:21.556  16167-16167/kar34.washington.edu.activityspy D/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: replacing opcode 0x6f at 0x0000\
+04-11 23:14:21.556  16167-16167/kar34.washington.edu.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll\
+04-11 23:14:21.566  16167-16167/kar34.washington.edu.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 12218: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V\
+04-11 23:14:21.566  16167-16167/kar34.washington.edu.activityspy D/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: replacing opcode 0x6f at 0x0000\
+04-11 23:14:21.566  16167-16167/kar34.washington.edu.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled\
+04-11 23:14:21.566  16167-16167/kar34.washington.edu.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 9783: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V\
+04-11 23:14:21.566  16167-16167/kar34.washington.edu.activityspy D/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: replacing opcode 0x6e at 0x000e\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 392: Landroid/content/res/TypedArray;.getChangingConfigurations ()I\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy D/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: replacing opcode 0x6e at 0x0002\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 414: Landroid/content/res/TypedArray;.getType (I)I\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy D/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: replacing opcode 0x6e at 0x0002\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawable\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 355: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy D/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: replacing opcode 0x6e at 0x0002\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawableForDensity\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 357: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;\
+04-11 23:14:21.576  16167-16167/kar34.washington.edu.activityspy D/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: replacing opcode 0x6e at 0x0002\
+04-11 23:14:21.606  16167-16167/kar34.washington.edu.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onCreate event fired\
+04-11 23:14:21.606  16167-16167/kar34.washington.edu.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onStart event fired\
+04-11 23:14:21.616  16167-16167/kar34.washington.edu.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onResume event fired\
+04-11 23:14:21.676  16167-16167/kar34.washington.edu.activityspy I/Adreno-EGL
+\f1 \'a9\'73
+\f0  <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build: AU_LINUX_ANDROID_LNX.LA.3.5.1_RB1.04.04.02.048.041_msm8974_LNX.LA.3.5.1_RB1_CL3304448_release_AU (CL3304448)\
+    OpenGL ES Shader Compiler Version: E031.24.00.14\
+    Build Date: 04/18/14 Fri\
+    Local Branch:\
+    Remote Branch: quic/LNX.LA.3.5.1_RB1.1\
+    Local Patches: NONE\
+    Reconstruct Branch: AU_LINUX_ANDROID_LNX.LA.3.5.1_RB1.04.04.02.048.041 +  NOTHING\
+04-11 23:14:21.736  16167-16167/kar34.washington.edu.activityspy D/OpenGLRenderer
+\f1 \'a9\'73
+\f0  Enabling debug mode 0\
+04-11 23:14:21.806  16167-16167/kar34.washington.edu.activityspy I/ActivityManager
+\f1 \'a9\'73
+\f0  Timeline: Activity_idle id: android.os.BinderProxy@4322c098 time:28523976\
+}
